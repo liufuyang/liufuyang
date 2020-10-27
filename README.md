@@ -1,7 +1,7 @@
 ### Hi there 👋, I love 🦀
 
-![github overall statistics](https://github-readme-stats.vercel.app/api?username=liufuyang&show_icons=true&theme=dark)
-![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=liufuyang&show_icons=true&theme=dark&hide=html,jupyter%20notebook)
+![github overall statistics](https://github-readme-stats.vercel.app/api?username=liufuyang&show_icons=true)
+![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=liufuyang&show_icons=true&hide=html,jupyter%20notebook)
 
 <!--
 **liufuyang/liufuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
