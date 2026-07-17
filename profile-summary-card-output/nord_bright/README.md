@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/liufuyang/liufuyang/main/profile-summary-card-output/nord_bright/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/liufuyang/liufuyang/main/profile-summary-card-output/nord_bright/4-productive-time.svg)
-```
-
-    
